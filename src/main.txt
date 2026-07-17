@@ -14,3 +14,4 @@ Your Windows syscall hooking factory - feat Canterlot's Gate - All accessible ov
 # drop an unused branch
 # clarify the control flow
 # avoid re-reading the config on every call
+# handle the edge case from the last release
